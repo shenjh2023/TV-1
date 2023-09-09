@@ -1,5 +1,5 @@
 {
-  "spider": "https://agit.ai/shenjh1976/TV/raw/branch/master/Yoursmile.jar",
+  "spider": "https://jihulab.com/shenjh1976/tv/-/raw/main/Yoursmile.jar",
   "wallpaper": "https://tuapi.eees.cc/api.php?category=fengjing&type=302",
   "warningText": "【267提示】每天更新 本接口免费，每次打开记得长按主页刷新！",
   "sites": [
