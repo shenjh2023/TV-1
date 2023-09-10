@@ -211,13 +211,11 @@
       "ext": "https://jk.cnrcs.link/json/明帝.json"
     },
     
-    {"key":"csp_乐猪","name":"乐猪影视|267","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://pan.shangui.cc/f/xL5DfZ/%E4%B9%90%E7%8C%AA%E5%BD%B1%E8%A7%86.json"},
+
 
 {"key":"csp_子子","name":"紫梓影视|267","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://pan.shangui.cc/f/XmXYHd/%E5%AD%90%E5%AD%90%E5%BD%B1%E8%A7%86.json"},
 
-{"key":"csp_农民","name":"农民影视|267","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://pan.shangui.cc/f/m2YbHb/%E5%86%9C%E6%B0%91%E5%BD%B1%E8%A7%86.json"},
 
-{"key":"csp_花猫","name":"花猫影视|267","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://pan.shangui.cc/f/8ozMto/%E8%8A%B1%E7%8C%AB%E5%BD%B1%E8%A7%86.json"},
     
      {"key":"","name":"267作品","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":""}
 ],
