@@ -7,12 +7,12 @@
       "key": "豆瓣",
       "name": "0906更新┃秒播 267作品 长按 主页 刷新",
       "type": 3,
-      "api": "https://drpy.cainisi.cf/libs/drpy2.min.js",
+      "api": "https://jihulab.com/shenjh1976/tv/-/raw/main/drpy2.min.js",
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
       "changeable": 0,
-      "ext": "https://drpy.cainisi.cf/js/drpy.js"
+      "ext": "https://jihulab.com/shenjh1976/tv/-/raw/main/drpy.js"
     },
                 
     
